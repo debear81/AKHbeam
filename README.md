@@ -116,5 +116,12 @@ Current version limitations include:
 ## VERIFICATION
 See documents folder for comparisons of add-in results to industry software results
 
+## ACKNOWLEDGEMENT
+This project was originally inspired by Doug Jenkins’ Newton Excel Bach post,“Beam Actions and Deflections by Macaulay’s Method,” which demonstrated the se of Macaulay functions for beam reactions, shear, moment, slope, and deflection calculations in Excel.
+
+[“Beam Actions and Deflections by Macaulay’s Method”](https://newtonexcelbach.com/2011/11/12/beam-actions-and-deflections-by-macaulays-method/)
+
+AKHbeam’s code structure, worksheet functions, validation, ribbon interface, and add-in implementation were developed independently for this project.
+
 
 
