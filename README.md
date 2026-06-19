@@ -13,7 +13,7 @@ All functions utilize a common calculation engine and input format, allowing rea
               S2:U5 = Point Loads Range (r rows x 4 columns)
 
 ## FEATURES
-- Single-span beam analysis (multi-span forthcoming)
+- Single & multi-span beam analysis
 - Point loads
 - Uniform and linearly varying distributed loads
 - Applied moments
@@ -82,7 +82,7 @@ Descriptions of the output ranges (tables) are as follows:
 | Deflection (delta) | absolute maximum deflection of beam |
 
 ## CAPBILITIES & ASSUMPTIONS
-- Single span beam analysis (multi-span capability forthcoming)
+- Single & multi-span beam analysis
 - Linear elastic analysis
 - Small displacement theory
 - Euler-Bernoulli beam formulation
@@ -94,7 +94,6 @@ Descriptions of the output ranges (tables) are as follows:
 
 ## LIMITATIONS
 Current version limitations include:
-- No multi-span beam (continuous) analysis (feature forthcoming)
 - No fixed, roller, or spring support
 - No Timoshenko (shear deformation) analysis
 - No dynamic analysis
