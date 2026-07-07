@@ -1,4 +1,4 @@
-# AKHbeam
+# Macaulay Beam Analysis for Excel (AKHbeam)
 AKHbeam is a Microsoft Excel add-in (XLAM) written in VBA that provides worksheet functions for one-dimensional beam analysis using the Macaulay (double integration) method.
 
 All functions utilize a common calculation engine and input format, allowing reactions, shear, moment, slope, and deflection results to be generated directly within Excel.
